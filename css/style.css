@@ -1,12 +1,12 @@
-/* import google fonts */
+/* =============import google fonts =============*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
-/* basic css */
+/*================ basic css================= */
 body{
     font-family: 'Poppins', sans-serif;
 }
-/* basic css end */
+/*================ basic css end ==================*/
 
-/* header section starts from here */
+/* ===========header section starts from here=================== */
 .proedu-text{
     font-size: 30px;
     color: gray;
@@ -38,3 +38,4 @@ body{
     height: 75vh;
     width: 100%;
 }
+/* ===========header section ends here=================== */
